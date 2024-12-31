@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flask-k8s-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: flask-k8s-app
+  template:
+    metadata:
+      labels:
+        app: flask-k8s-app
+    spec:
+      containers:
+        - name: flask-k8s-app
+          image: <dockerhub_username>/flask-k8s-app   # Use the built image here
+          ports:
+            - containerPort: 5000
