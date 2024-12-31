@@ -107,6 +107,7 @@ This collection not only demonstrates the application of advanced machine learni
 |:----------------------------------------------:|:-------------------:|:-----------------------------------------------------------------------------------------------:|:----------------------------:|
 | Terraform Fundamentals: A Step-by-Step Guide   | Terraform Tutorials | Master Terraform to automate infrastructure deployment and manage cloud resources efficiently.  |          Terraform           |
 | Mastering Docker - From Fundamentals to Hands-On Projects   | Docker Tutorials | To provide a comprehensive and practical guide to mastering Docker by covering fundamental concepts and hands-on projects for real-world applications.  |          Docker           |
+| Kubernetes -  Guide for Modern DevOps   | Kubernetes Tutorials | This guide aims to deliver a comprehensive and practical approach to mastering Kubernetes by exploring fundamental concepts and hands-on projects for real-world applications.  |          Kubernetes           |
 
 
 ## **Future Work**
