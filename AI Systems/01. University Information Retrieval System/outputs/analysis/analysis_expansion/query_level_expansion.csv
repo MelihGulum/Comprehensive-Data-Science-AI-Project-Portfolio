@@ -1,0 +1,41 @@
+query_id,query,bm25_top,dense_top,bm25_success@1,dense_success@1,failure_types
+4,bahar dönemi başlangıç tarihi nedir akademik takvim eğitim yılı takvimi başlangıç bitiş tarih süre,DOC_01381,DOC_01381,True,True,long_query
+5,güz yarıyılı final sınav haftası hangi tarihler arasındadır yarıyıl sonu sınavı sınav takvimi tarihleri ara final bütünleme tarihi başlangıç bitiş tarih süre,DOC_01261,DOC_01261,True,True,long_query
+12,maksimum akts sınırı nedir,DOC_01240,DOC_01240,True,True,
+14,lisans programlarında azami öğrenim süresi kaç yıldır,DOC_00278,DOC_00278,True,True,long_query
+15,genel not ortalaması hangi formüle göre hesaplanmaktadır başarı notu harf sınav,DOC_00122,DOC_00122,False,False,"long_query,hard_query"
+18,devamsızlık nedeniyle başarısız sayılma oranı nedir,DOC_01364,DOC_01364,True,True,
+28,kayıt dondurma süresi öğrenim süresine dahil,DOC_01363,DOC_01363,True,True,
+29,çift anadal programına başvuru gerekli asgari not ortalaması nedir müracaat form dilekçe başarı notu harf evrak belge sınav,DOC_00337,DOC_00337,True,True,long_query
+30,çap minimum ortalama kaç olmalı,DOC_00678,DOC_00678,True,True,
+32,yatay geçiş başvuruları hangi tarihlerde yapılmaktadır kurumlararası geçiş merkezi yerleştirme puanı başlangıç bitiş tarih süre form dilekçe evrak,DOC_01101,DOC_01101,True,True,long_query
+36,yaz okulunda alınan dersler ortalamaya katılır,DOC_00356,DOC_00356,True,True,
+55,özel gereksinimli öğrenciler sınavlarda hangi düzenlemeler yapılabilir ara sınav final bütünleme,DOC_01101,DOC_01101,True,True,long_query
+65,muafiyet intibak kararlarına itiraz edilebilir,DOC_00174,DOC_00174,True,True,
+70,yandal öğrencisi başarısız olursa programla ilişiği kesilir,DOC_00618,DOC_00618,True,True,long_query
+76,katkı payı ödemeyen öğrencinin kaydı yenilenir,DOC_00818,DOC_00818,True,True,
+82,üstten ders alma koşulları nelerdir,DOC_01237,DOC_00861,True,True,
+87,akademik danışmanın ders kayıt sürecindeki yetkisi nedir,DOC_01230,DOC_01230,True,True,long_query
+89,tez izleme komitesi hangi aşamada kurulur,DOC_01115,DOC_01115,True,True,
+95,ders ekleme bırakma süresi kaç gündür,DOC_01237,DOC_00861,True,True,
+98,başarı sıralaması nasıl hesaplanır,DOC_00215,DOC_00215,True,True,
+101,öğrencinin staj yapmaması durumunda sonuçlar doğar zorunlu staj uygulamalı ders mezuniyet,DOC_00714,DOC_00714,True,True,long_query
+102,derslerden başarısız olan bir öğrenci okuldan atılır,DOC_00004,DOC_00004,True,True,long_query
+103,bir öğrencinin mezun olabilmesi hangi şartları sağlaması gerekir,DOC_01090,DOC_01090,True,True,long_query
+104,kayıt yenilemeyen öğrencinin öğrencilik hakkı nasıl etkilenir,DOC_00215,DOC_00215,True,True,long_query
+105,devamsızlık başarısızlık birlikte olursa öğrenciye,DOC_01045,DOC_01045,True,True,
+106,azami öğrenim süresi dolan öğrencinin karşılaşacağı durumlar nelerdir,DOC_00985,DOC_00985,False,False,"long_query,hard_query"
+107,dersleri tamamlayamayan bir öğrenci mezun olabilir,DOC_00606,DOC_00606,True,True,
+108,bir öğrenci hangi durumlarda okuldan ilişiği kesilmiş sayılır,DOC_01090,DOC_01090,True,True,long_query
+109,disiplin cezası alan bir öğrencinin akademik durumu nasıl etkilenir disiplin cezası uyarı kınama,DOC_00437,DOC_00437,True,True,long_query
+110,öğrenci kayıt dondurduktan geri döndüğünde haklarında değişiklik,DOC_00961,DOC_00961,True,True,long_query
+111,ders yükünü tamamlayamayan öğrencinin eğitim süreci nasıl etkilenir,DOC_00215,DOC_00215,True,True,long_query
+112,bir öğrencinin başarısız sayılması hangi kriterlere bağlıdır,DOC_01090,DOC_01090,True,True,long_query
+113,programını süresinde bitiremeyen öğrenciler uygulamalar vardır,DOC_01434,DOC_00572,False,True,keyword_mismatch
+114,öğrencinin akademik başarısızlığı hangi sonuçlara yol açar,DOC_01421,DOC_01421,True,True,long_query
+115,kayıt yaptırmayan yenilemeyen öğrenciler sistemde nasıl değerlendirilir,DOC_00215,DOC_00215,True,True,long_query
+116,disiplin soruşturması sonucunda öğrencinin statüsü nasıl değişir disiplin cezası uyarı kınama,DOC_00215,DOC_00215,True,True,long_query
+117,bir öğrenci hangi koşullarda eğitimine devam edemez hale gelir,DOC_01090,DOC_01090,True,True,long_query
+118,öğrencinin yükümlülüklerini yerine getirmemesi hangi yaptırımlara neden,DOC_00182,DOC_00182,True,True,long_query
+119,eğitim süresi uzayan öğrenciler hangi kurallar uygulanır,DOC_01101,DOC_01101,False,False,"long_query,hard_query"
+120,bir öğrencinin mezuniyet hakkını kaybetmesine neden olan durumlar nelerdir diploma hakkı staj bitirme projesi mezuniyet koşulları öğrenci hakları,DOC_00152,DOC_00152,True,True,long_query

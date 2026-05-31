@@ -1,0 +1,41 @@
+query_id,query,query_type,bm25_rr,dense_rr,hybrid_rr,bm25_ndcg,dense_ndcg,hybrid_ndcg,bm25_stage,dense_stage,hybrid_stage,severity,difficulty,best_model,dense_vs_bm25_ndcg_diff,hybrid_vs_dense_ndcg_diff
+4,bahar dönemi başlangıç tarihi nedir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+5,güz yarıyılı final sınav haftası hangi tarihler arasındadır,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+12,maksimum akts sınırı nedir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+14,lisans programlarında azami öğrenim süresi kaç yıldır,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+15,genel not ortalaması hangi formüle göre hesaplanmaktadır,easy,0.5,0.5,0.5,0.4912596920895758,0.4912596920895758,0.4912596920895758,ranking_failure,ranking_failure,ranking_failure,medium,0.5,bm25,0.0,0.0
+18,devamsızlık nedeniyle başarısız sayılma oranı nedir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+28,kayıt dondurma süresi öğrenim süresine dahil,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+29,çift anadal programına başvuru gerekli asgari not ortalaması nedir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+30,çap minimum ortalama kaç olmalı,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+32,yatay geçiş başvuruları hangi tarihlerde yapılmaktadır,easy,1.0,1.0,1.0,0.6548086577531307,0.6548086577531307,0.6548086577531307,success,success,success,medium,0.0,bm25,0.0,0.0
+36,yaz okulunda alınan dersler ortalamaya katılır,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+55,özel gereksinimli öğrenciler sınavlarda hangi düzenlemeler yapılabilir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+65,muafiyet intibak kararlarına itiraz edilebilir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+70,yandal öğrencisi başarısız olursa programla ilişiği kesilir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+76,katkı payı ödemeyen öğrencinin kaydı yenilenir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+82,üstten ders alma koşulları nelerdir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+87,akademik danışmanın ders kayıt sürecindeki yetkisi nedir,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+89,tez izleme komitesi hangi aşamada kurulur,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+95,ders ekleme bırakma süresi kaç gündür,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+98,başarı sıralaması nasıl hesaplanır,easy,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+101,öğrencinin staj yapmaması durumunda sonuçlar doğar,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+102,derslerden başarısız olan bir öğrenci okuldan atılır,hard,1.0,1.0,1.0,0.639945385422766,0.6548086577531307,0.6548086577531307,success,success,success,medium,0.0,bm25,0.014863272330364663,0.0
+103,bir öğrencinin mezun olabilmesi hangi şartları sağlaması gerekir,hard,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,success,success,success,low,0.0,bm25,0.0,0.0
+104,kayıt yenilemeyen öğrencinin öğrencilik hakkı nasıl etkilenir,hard,1.0,1.0,1.0,0.7227265726449519,0.7227265726449519,0.7227265726449519,success,success,success,low,0.0,bm25,0.0,0.0
+105,devamsızlık başarısızlık birlikte olursa öğrenciye,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+106,azami öğrenim süresi dolan öğrencinin karşılaşacağı durumlar nelerdir,hard,0.0,0.0,0.0,0.0,0.0,0.0,retrieval_failure,retrieval_failure,retrieval_failure,critical,1.0,bm25,0.0,0.0
+107,dersleri tamamlayamayan bir öğrenci mezun olabilir,hard,1.0,1.0,1.0,0.830419897363192,0.830419897363192,0.830419897363192,success,success,success,low,0.0,bm25,0.0,0.0
+108,bir öğrenci hangi durumlarda okuldan ilişiği kesilmiş sayılır,hard,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,success,success,success,low,0.0,bm25,0.0,0.0
+109,disiplin cezası alan bir öğrencinin akademik durumu nasıl etkilenir,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+110,öğrenci kayıt dondurduktan geri döndüğünde haklarında değişiklik,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+111,ders yükünü tamamlayamayan öğrencinin eğitim süreci nasıl etkilenir,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+112,bir öğrencinin başarısız sayılması hangi kriterlere bağlıdır,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+113,programını süresinde bitiremeyen öğrenciler uygulamalar vardır,hard,0.0,1.0,1.0,0.0,0.6164336326286644,0.6164336326286644,retrieval_failure,success,success,medium,0.0,dense,0.6164336326286644,0.0
+114,öğrencinin akademik başarısızlığı hangi sonuçlara yol açar,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+115,kayıt yaptırmayan yenilemeyen öğrenciler sistemde nasıl değerlendirilir,hard,1.0,1.0,1.0,0.6843515475204855,0.6843515475204855,0.6843515475204855,success,success,success,medium,0.0,bm25,0.0,0.0
+116,disiplin soruşturması sonucunda öğrencinin statüsü nasıl değişir,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+117,bir öğrenci hangi koşullarda eğitimine devam edemez hale gelir,hard,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,success,success,success,low,0.0,bm25,0.0,0.0
+118,öğrencinin yükümlülüklerini yerine getirmemesi hangi yaptırımlara neden,hard,1.0,1.0,1.0,1.0,1.0,1.0,success,success,success,low,0.0,bm25,0.0,0.0
+119,eğitim süresi uzayan öğrenciler hangi kurallar uygulanır,hard,0.5,0.5,0.5,0.4912596920895758,0.4912596920895758,0.4912596920895758,ranking_failure,ranking_failure,ranking_failure,medium,0.5,bm25,0.0,0.0
+120,bir öğrencinin mezuniyet hakkını kaybetmesine neden olan durumlar nelerdir,hard,1.0,1.0,1.0,0.5087403079104241,0.5087403079104241,0.5087403079104241,success,success,success,medium,0.0,bm25,0.0,0.0

@@ -1,7 +1,6 @@
-
 # Comprehensive Data Science & AI Project Portfolio
 
-A curated collection of projects across **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Analysis**, and **Cloud/MLOps**.
+A curated collection of projects across **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Analysis**, **AI Systems**, and **Cloud/MLOps**.
 
 This repository showcases **end-to-end workflows**, real-world datasets, deployment-ready pipelines, and reproducible best practices.
 
@@ -24,6 +23,7 @@ Built using modern tools and frameworks commonly used in industry:
 - [🧠 Deep Learning](#deep-learning-projects)
 - [⚙️ Data Engineering](#data-engineering-projects)
 - [📊 Data Analysis](#data-analysis-projects)
+- [🦾 AI Systems](#ai-systems-projects)
 - [📘 Tutorials](#tutorials)
 - [☁️ Cloud & DevOps](#cloud--devops)
 - [🗺 Roadmap](#-roadmap)
@@ -44,6 +44,7 @@ A selection of the most impactful and advanced projects:
 | [Urban Sound Classification & Deployment](./Deep%20Learning%20Projects/09.%20UrbanSounds%20Flask) | Audio AI | CNN, Optuna, Flask |
 | [Face Mask Detection (Real-Time)](./Deep%20Learning%20Projects/01.%20Face%20Mask%20Detection) | Computer Vision | MobileNetV2, Transfer Learning |
 | [Urban Sound Research Project](./Deep%20Learning%20Projects/10.%20Researching%20Urban%20Sound%20Classification%20with%20DL%20and%20ML) | Audio ML/DL | CNN, LSTM, A/B Testing |
+| [University Information Retrieval System](./AI%20Systems/01.%20University%20Information%20Retrieval%20System) | AI Systems / RAG | RAG, LLM, Vector DB |
 | [NBA Player Stats ETL Pipeline](./Data%20Engineering/01.%20ETL%20-%20NBA%20Player%20Stats/) | Data Engineering | Web Scraping, MSSQL |
 | [Terraform Fundamentals](./Clouds%20and%20DevOps/Terraform%20Fundamentals%20-%20A%20Step-by-Step%20Guide/)  | Cloud IaC | Terraform |
 
@@ -150,6 +151,22 @@ A selection of the most impactful and advanced projects:
 | [8 Weeks SQL Challenge](./Data%20Analysis/SQL/Projects/3.%208-Weeks-SQL-Challenge/) | Intermediate–Advanced |
 | [Hackerrank SQL](./Data%20Analysis/SQL/Projects/4.%20Hackerrank-SQL/) | Beginner–Intermediate |
 
+
+</details>
+
+
+<br>
+<a id="ai-systems-projects"></a>
+<div align="center">
+  <h1><strong>AI Systems Projects</strong></h1>
+</div>
+
+<details>
+<summary><strong>View AI Systems Projects</strong></summary>
+
+| Project Name | Task | Prominent Techniques / Tools |
+|-------------|------|-----------------------------|
+| [University Information Retrieval System](./AI%20Systems/01.%20University%20Information%20Retrieval%20System) | Information Retrieval / RAG | RAG, LLM, Vector DB |
 
 </details>
 

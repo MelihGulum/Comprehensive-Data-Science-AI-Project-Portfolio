@@ -1,0 +1,41 @@
+query_id,query,reasons,BM25_success@1,Dense_success@1,Hybrid_success@1,Hybrid + WeightedExpansion(0.5)_success@1,Hybrid + Expansion + CE_success@1,Hybrid + WeightedExpansion(0.3)_success@1,Custom Hybrid + Meta + Title + CE_success@1,Custom Hybrid + Meta + Title + Expansion + CE_success@1,Custom Hybrid + WeightedExpansion(0.5)_success@1
+4,bahar dönemi başlangıç tarihi nedir,,True,True,True,True,True,True,True,True,True
+5,güz yarıyılı final sınav haftası hangi tarihler arasındadır,long_query,True,True,True,True,True,True,True,True,True
+12,maksimum akts sınırı nedir,,True,True,True,True,True,True,True,True,True
+14,lisans programlarında azami öğrenim süresi kaç yıldır,long_query,True,True,True,True,True,True,True,True,True
+15,genel not ortalaması hangi formüle göre hesaplanmaktadır,"ranking_error,hard_query,long_query",False,False,False,True,True,False,True,True,True
+18,devamsızlık nedeniyle başarısız sayılma oranı nedir,,True,True,True,True,True,True,True,True,True
+28,kayıt dondurma süresi öğrenim süresine dahil,,True,True,True,True,True,True,True,True,True
+29,çift anadal programına başvuru gerekli asgari not ortalaması nedir,long_query,True,True,True,True,True,True,True,True,True
+30,çap minimum ortalama kaç olmalı,,True,True,True,True,True,True,True,True,True
+32,yatay geçiş başvuruları hangi tarihlerde yapılmaktadır,,True,True,True,True,True,True,False,False,True
+36,yaz okulunda alınan dersler ortalamaya katılır,,True,True,True,True,True,True,True,True,True
+55,özel gereksinimli öğrenciler sınavlarda hangi düzenlemeler yapılabilir,long_query,True,True,True,True,True,True,True,True,True
+65,muafiyet intibak kararlarına itiraz edilebilir,,True,True,True,True,True,True,True,True,True
+70,yandal öğrencisi başarısız olursa programla ilişiği kesilir,long_query,True,True,True,True,True,True,True,True,True
+76,katkı payı ödemeyen öğrencinin kaydı yenilenir,,True,True,True,True,True,True,True,True,True
+82,üstten ders alma koşulları nelerdir,,True,True,True,True,True,True,True,True,True
+87,akademik danışmanın ders kayıt sürecindeki yetkisi nedir,long_query,True,True,True,True,True,True,True,True,True
+89,tez izleme komitesi hangi aşamada kurulur,,True,True,True,True,True,True,True,True,True
+95,ders ekleme bırakma süresi kaç gündür,,True,True,True,True,True,True,True,True,True
+98,başarı sıralaması nasıl hesaplanır,,True,True,True,True,True,True,True,True,True
+101,öğrencinin staj yapmaması durumunda sonuçlar doğar,,True,True,True,True,True,True,True,True,True
+102,derslerden başarısız olan bir öğrenci okuldan atılır,long_query,True,True,True,True,True,True,True,True,True
+103,bir öğrencinin mezun olabilmesi hangi şartları sağlaması gerekir,long_query,True,True,True,True,True,True,True,True,True
+104,kayıt yenilemeyen öğrencinin öğrencilik hakkı nasıl etkilenir,long_query,True,True,True,True,True,True,False,False,True
+105,devamsızlık başarısızlık birlikte olursa öğrenciye,,True,True,True,True,True,True,True,True,True
+106,azami öğrenim süresi dolan öğrencinin karşılaşacağı durumlar nelerdir,"hard_query,long_query",False,False,False,True,True,True,False,False,True
+107,dersleri tamamlayamayan bir öğrenci mezun olabilir,,True,True,True,True,True,True,True,True,True
+108,bir öğrenci hangi durumlarda okuldan ilişiği kesilmiş sayılır,long_query,True,True,True,True,True,True,True,True,True
+109,disiplin cezası alan bir öğrencinin akademik durumu nasıl etkilenir,long_query,True,True,True,True,True,True,True,True,True
+110,öğrenci kayıt dondurduktan geri döndüğünde haklarında değişiklik,long_query,True,True,True,True,True,True,True,True,True
+111,ders yükünü tamamlayamayan öğrencinin eğitim süreci nasıl etkilenir,long_query,True,True,True,True,True,True,True,True,True
+112,bir öğrencinin başarısız sayılması hangi kriterlere bağlıdır,long_query,True,True,True,True,True,True,True,True,True
+113,programını süresinde bitiremeyen öğrenciler uygulamalar vardır,keyword_mismatch,False,True,True,False,False,False,True,True,False
+114,öğrencinin akademik başarısızlığı hangi sonuçlara yol açar,long_query,True,True,True,True,True,True,False,False,True
+115,kayıt yaptırmayan yenilemeyen öğrenciler sistemde nasıl değerlendirilir,long_query,True,True,True,True,True,True,True,True,True
+116,disiplin soruşturması sonucunda öğrencinin statüsü nasıl değişir,long_query,True,True,True,True,True,True,True,True,True
+117,bir öğrenci hangi koşullarda eğitimine devam edemez hale gelir,long_query,True,True,True,True,True,True,True,True,True
+118,öğrencinin yükümlülüklerini yerine getirmemesi hangi yaptırımlara neden,long_query,True,True,True,True,True,True,True,True,True
+119,eğitim süresi uzayan öğrenciler hangi kurallar uygulanır,"ranking_error,hard_query,long_query",False,False,False,False,False,False,True,True,False
+120,bir öğrencinin mezuniyet hakkını kaybetmesine neden olan durumlar nelerdir,long_query,True,True,True,True,True,True,True,False,True

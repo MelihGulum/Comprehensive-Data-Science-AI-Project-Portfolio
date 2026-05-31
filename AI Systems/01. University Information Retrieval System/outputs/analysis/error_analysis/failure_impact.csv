@@ -1,0 +1,6 @@
+failure_types,hybrid_vs_bm25_ndcg_diff,dense_vs_bm25_ndcg_diff,hybrid_vs_dense_ndcg_diff
+,0.0,0.0,0.0
+hard_query,0.0,0.0,0.0
+keyword_mismatch,0.6164336326286644,0.6164336326286644,0.0
+long_query,0.0006462292317549853,0.0006462292317549853,0.0
+ranking_error,0.0,0.0,0.0

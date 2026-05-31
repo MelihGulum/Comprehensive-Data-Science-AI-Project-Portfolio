@@ -1,0 +1,282 @@
+{
+  "Muafiyet ve intibak kararlarına itiraz edilebilir mi?": [
+    "DOC_00174",
+    "DOC_01029",
+    "DOC_01037",
+    "DOC_00162",
+    "DOC_00905"
+  ],
+  "ÇAP için minimum ortalama kaç olmalı?": [
+    "DOC_01340",
+    "DOC_01078",
+    "DOC_01082",
+    "DOC_01010",
+    "DOC_00291"
+  ],
+  "Kayıt dondurma süresi öğrenim süresine dahil edilir mi?": [
+    "DOC_01297",
+    "DOC_01365",
+    "DOC_01034",
+    "DOC_01363",
+    "DOC_01295"
+  ],
+  "Tez izleme komitesi hangi aşamada kurulur?": [
+    "DOC_01163",
+    "DOC_01164",
+    "DOC_01165",
+    "DOC_01171",
+    "DOC_01166"
+  ],
+  "Başarı sıralaması nasıl hesaplanır?": [
+    "DOC_01028",
+    "DOC_00304",
+    "DOC_00780",
+    "DOC_01105",
+    "DOC_00951"
+  ],
+  "Güz yarıyılı final sınav haftası hangi tarihler arasındadır?": [
+    "DOC_01382",
+    "DOC_00004",
+    "DOC_01261",
+    "DOC_01346",
+    "DOC_00863"
+  ],
+  "Özel gereksinimli öğrenciler için sınavlarda hangi düzenlemeler yapılabilir?": [
+    "DOC_00555",
+    "DOC_00549",
+    "DOC_00564",
+    "DOC_00562",
+    "DOC_00559"
+  ],
+  "Katkı payı ödemeyen öğrencinin kaydı yenilenir mi?": [
+    "DOC_00903",
+    "DOC_01232",
+    "DOC_00324",
+    "DOC_01229",
+    "DOC_01201"
+  ],
+  "Maksimum AKTS sınırı nedir?": [
+    "DOC_01046",
+    "DOC_01010",
+    "DOC_01005",
+    "DOC_01340",
+    "DOC_01240"
+  ],
+  "Yandal öğrencisi başarısız olursa programla ilişiği kesilir mi?": [
+    "DOC_00492",
+    "DOC_00616",
+    "DOC_00275",
+    "DOC_00491",
+    "DOC_00490"
+  ],
+  "Akademik danışmanın ders kayıt sürecindeki yetkisi nedir?": [
+    "DOC_01009",
+    "DOC_01230",
+    "DOC_01110",
+    "DOC_00327",
+    "DOC_00562"
+  ],
+  "Lisans programlarında azami öğrenim süresi kaç yıldır?": [
+    "DOC_00278",
+    "DOC_00391",
+    "DOC_00918",
+    "DOC_00952",
+    "DOC_00905"
+  ],
+  "Devamsızlık nedeniyle başarısız sayılma oranı nedir?": [
+    "DOC_00312",
+    "DOC_00931",
+    "DOC_01017",
+    "DOC_00844",
+    "DOC_00862"
+  ],
+  "Çift anadal programına başvuru için gerekli asgari not ortalaması nedir?": [
+    "DOC_00476",
+    "DOC_00478",
+    "DOC_00475",
+    "DOC_00477",
+    "DOC_00880"
+  ],
+  "Yatay geçiş başvuruları hangi tarihlerde yapılmaktadır?": [
+    "DOC_00748",
+    "DOC_00767",
+    "DOC_00763",
+    "DOC_00736",
+    "DOC_00812"
+  ],
+  "Yaz okulunda alınan dersler ortalamaya katılır mı?": [
+    "DOC_00358",
+    "DOC_00357",
+    "DOC_00359",
+    "DOC_00360",
+    "DOC_00356"
+  ],
+  "Ders ekleme bırakma süresi kaç gündür?": [
+    "DOC_01110",
+    "DOC_00227",
+    "DOC_00574",
+    "DOC_00573",
+    "DOC_00836"
+  ],
+  "Bahar dönemi başlangıç tarihi nedir?": [
+    "DOC_00004",
+    "DOC_01381",
+    "DOC_00001",
+    "DOC_00529",
+    "DOC_01216"
+  ],
+  "Genel not ortalaması hangi formüle göre hesaplanmaktadır?": [
+    "DOC_01028",
+    "DOC_01292",
+    "DOC_00179",
+    "DOC_00884",
+    "DOC_00882"
+  ],
+  "Üstten ders alma koşulları nelerdir?": [
+    "DOC_01010",
+    "DOC_00862",
+    "DOC_01340",
+    "DOC_00687",
+    "DOC_00359"
+  ],
+  "Öğrencinin staj yapmaması durumunda ne gibi sonuçlar doğar?": [
+    "DOC_01041",
+    "DOC_00842",
+    "DOC_00931",
+    "DOC_01017",
+    "DOC_01016"
+  ],
+  "Derslerden başarısız olan bir öğrenci okuldan atılır mı?": [
+    "DOC_01386",
+    "DOC_00133",
+    "DOC_01392",
+    "DOC_01391",
+    "DOC_00137"
+  ],
+  "Bir öğrencinin mezun olabilmesi için hangi şartları sağlaması gerekir?": [
+    "DOC_00582",
+    "DOC_01016",
+    "DOC_01236",
+    "DOC_01246",
+    "DOC_00045"
+  ],
+  "Kayıt yenilemeyen öğrencinin öğrencilik hakkı nasıl etkilenir?": [
+    "DOC_00903",
+    "DOC_01338",
+    "DOC_01008",
+    "DOC_01201",
+    "DOC_01324"
+  ],
+  "Devamsızlık ve başarısızlık birlikte olursa öğrenciye ne olur?": [
+    "DOC_00439",
+    "DOC_01017",
+    "DOC_01263",
+    "DOC_01201",
+    "DOC_00392"
+  ],
+  "Azami öğrenim süresi dolan öğrencinin karşılaşacağı durumlar nelerdir?": [
+    "DOC_01017",
+    "DOC_00840",
+    "DOC_00852",
+    "DOC_00844",
+    "DOC_01349"
+  ],
+  "Dersleri tamamlayamayan bir öğrenci mezun olabilir mi?": [
+    "DOC_01386",
+    "DOC_00654",
+    "DOC_00047",
+    "DOC_00045",
+    "DOC_00647"
+  ],
+  "Bir öğrenci hangi durumlarda okuldan ilişiği kesilmiş sayılır?": [
+    "DOC_00152",
+    "DOC_01392",
+    "DOC_01386",
+    "DOC_01396",
+    "DOC_00133"
+  ],
+  "Disiplin cezası alan bir öğrencinin akademik durumu nasıl etkilenir?": [
+    "DOC_01401",
+    "DOC_01396",
+    "DOC_01419",
+    "DOC_01392",
+    "DOC_01388"
+  ],
+  "Öğrenci kayıt dondurduktan sonra geri döndüğünde haklarında değişiklik olur mu?": [
+    "DOC_00961",
+    "DOC_00133",
+    "DOC_01386",
+    "DOC_00152",
+    "DOC_00137"
+  ],
+  "Ders yükünü tamamlayamayan öğrencinin eğitim süreci nasıl etkilenir?": [
+    "DOC_00862",
+    "DOC_01017",
+    "DOC_00931",
+    "DOC_01248",
+    "DOC_01250"
+  ],
+  "Bir öğrencinin başarısız sayılması hangi kriterlere bağlıdır?": [
+    "DOC_01028",
+    "DOC_00862",
+    "DOC_00837",
+    "DOC_01020",
+    "DOC_01110"
+  ],
+  "Programını süresinde bitiremeyen öğrenciler için ne gibi uygulamalar vardır?": [
+    "DOC_00478",
+    "DOC_01248",
+    "DOC_01017",
+    "DOC_00931",
+    "DOC_00862"
+  ],
+  "Öğrencinin akademik başarısızlığı hangi sonuçlara yol açar?": [
+    "DOC_01017",
+    "DOC_00863",
+    "DOC_00931",
+    "DOC_00905",
+    "DOC_00247"
+  ],
+  "Kayıt yaptırmayan ya da yenilemeyen öğrenciler sistemde nasıl değerlendirilir?": [
+    "DOC_01338",
+    "DOC_01008",
+    "DOC_01201",
+    "DOC_01230",
+    "DOC_01226"
+  ],
+  "Disiplin soruşturması sonucunda öğrencinin statüsü nasıl değişir?": [
+    "DOC_01401",
+    "DOC_01420",
+    "DOC_01419",
+    "DOC_01408",
+    "DOC_01396"
+  ],
+  "Bir öğrenci hangi koşullarda eğitimine devam edemez hale gelir?": [
+    "DOC_01386",
+    "DOC_00129",
+    "DOC_00133",
+    "DOC_00137",
+    "DOC_01392"
+  ],
+  "Öğrencinin yükümlülüklerini yerine getirmemesi hangi yaptırımlara neden olur?": [
+    "DOC_00152",
+    "DOC_00694",
+    "DOC_00886",
+    "DOC_00820",
+    "DOC_00046"
+  ],
+  "Eğitim süresi uzayan öğrenciler için hangi kurallar uygulanır?": [
+    "DOC_00905",
+    "DOC_00206",
+    "DOC_00200",
+    "DOC_00862",
+    "DOC_00267"
+  ],
+  "Bir öğrencinin mezuniyet hakkını kaybetmesine neden olan durumlar nelerdir?": [
+    "DOC_00152",
+    "DOC_00694",
+    "DOC_00647",
+    "DOC_00046",
+    "DOC_01310"
+  ]
+}

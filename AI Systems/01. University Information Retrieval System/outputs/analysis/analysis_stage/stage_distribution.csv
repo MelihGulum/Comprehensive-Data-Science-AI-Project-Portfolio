@@ -1,0 +1,10 @@
+stage,count
+bm25_success,36
+dense_success,37
+hybrid_success,37
+bm25_ranking_failure,2
+dense_ranking_failure,2
+hybrid_ranking_failure,2
+bm25_retrieval_failure,2
+dense_retrieval_failure,1
+hybrid_retrieval_failure,1
