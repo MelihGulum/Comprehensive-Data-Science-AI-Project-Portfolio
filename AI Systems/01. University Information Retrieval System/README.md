@@ -20,21 +20,21 @@ Hybrid BM25 + Dense + Elasticsearch retrieval · Cross-encoder reranking · PRF 
 ### Main Interface
 > Clean query interface with a collapsible settings sidebar. The active model (`Hybrid + Meta + Title + Cross`) is always surfaced in the sidebar header so users immediately know what configuration is running.
 
-![Main Interface](docs/screenshots/1.png)
+![Main Interface](screenshots/main_page.png)
 
 ---
 
 ### Retrieval Mode — Ranked Results with Score Breakdown
 > Query `"Akts nedir"` returns ranked regulation articles from TNKÜ's official documents. Each result shows the regulation title, document ID, a text preview, and a **three-column score panel** — normalized BM25, Dense cosine similarity, and Cross-Encoder score (with raw values beneath). Rank 1 receives a trophy badge; ranks 2–3 receive a top-3 indicator.
 
-![Retrieval Results](docs/screenshots/2.png)
+![Retrieval Results](screenshots/retrieval.png)
 
 ---
 
 ### RAG Mode — Grounded Answer Generation
 > The same query with RAG enabled. Instead of a ranked list, the system generates a structured, citation-grounded answer via **Gemini** using the top-k retrieved documents as context. The answer explains AKTS (European Credit Transfer System) with bullet-point definitions pulled directly from the regulation text. Source documents remain accessible in a collapsible panel below.
 
-![RAG Mode](docs/screenshots/3.png)
+![RAG Mode](screenshots/rag.png)
 
 ---
 
