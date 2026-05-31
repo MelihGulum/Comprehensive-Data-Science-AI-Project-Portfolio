@@ -1,0 +1,41 @@
+query_id,query,bm25_rr,dense_rr,hybrid_rr,bm25_ndcg,dense_ndcg,hybrid_ndcg,dense_vs_bm25_rr_diff,dense_vs_bm25_ndcg_diff,hybrid_vs_bm25_rr_diff,hybrid_vs_bm25_ndcg_diff,hybrid_vs_dense_rr_diff,hybrid_vs_dense_ndcg_diff,failure_types
+4,bahar dönemi başlangıç tarihi nedir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+5,güz yarıyılı final sınav haftası hangi tarihler arasındadır,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+12,maksimum akts sınırı nedir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+14,lisans programlarında azami öğrenim süresi kaç yıldır,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+15,genel not ortalaması hangi formüle göre hesaplanmaktadır,0.5,0.5,0.5,0.4912596920895758,0.4912596920895758,0.4912596920895758,0.0,0.0,0.0,0.0,0.0,0.0,"long_query,ranking_error,hard_query"
+18,devamsızlık nedeniyle başarısız sayılma oranı nedir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+28,kayıt dondurma süresi öğrenim süresine dahil,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+29,çift anadal programına başvuru gerekli asgari not ortalaması nedir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+30,çap minimum ortalama kaç olmalı,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+32,yatay geçiş başvuruları hangi tarihlerde yapılmaktadır,1.0,1.0,1.0,0.6548086577531307,0.6548086577531307,0.6548086577531307,0.0,0.0,0.0,0.0,0.0,0.0,
+36,yaz okulunda alınan dersler ortalamaya katılır,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+55,özel gereksinimli öğrenciler sınavlarda hangi düzenlemeler yapılabilir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+65,muafiyet intibak kararlarına itiraz edilebilir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+70,yandal öğrencisi başarısız olursa programla ilişiği kesilir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+76,katkı payı ödemeyen öğrencinin kaydı yenilenir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+82,üstten ders alma koşulları nelerdir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+87,akademik danışmanın ders kayıt sürecindeki yetkisi nedir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+89,tez izleme komitesi hangi aşamada kurulur,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+95,ders ekleme bırakma süresi kaç gündür,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+98,başarı sıralaması nasıl hesaplanır,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+101,öğrencinin staj yapmaması durumunda sonuçlar doğar,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+102,derslerden başarısız olan bir öğrenci okuldan atılır,1.0,1.0,1.0,0.639945385422766,0.6548086577531307,0.6548086577531307,0.0,0.014863272330364663,0.0,0.014863272330364663,0.0,0.0,long_query
+103,bir öğrencinin mezun olabilmesi hangi şartları sağlaması gerekir,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+104,kayıt yenilemeyen öğrencinin öğrencilik hakkı nasıl etkilenir,1.0,1.0,1.0,0.7227265726449519,0.7227265726449519,0.7227265726449519,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+105,devamsızlık başarısızlık birlikte olursa öğrenciye,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+106,azami öğrenim süresi dolan öğrencinin karşılaşacağı durumlar nelerdir,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"long_query,hard_query"
+107,dersleri tamamlayamayan bir öğrenci mezun olabilir,1.0,1.0,1.0,0.830419897363192,0.830419897363192,0.830419897363192,0.0,0.0,0.0,0.0,0.0,0.0,
+108,bir öğrenci hangi durumlarda okuldan ilişiği kesilmiş sayılır,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+109,disiplin cezası alan bir öğrencinin akademik durumu nasıl etkilenir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+110,öğrenci kayıt dondurduktan geri döndüğünde haklarında değişiklik,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+111,ders yükünü tamamlayamayan öğrencinin eğitim süreci nasıl etkilenir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+112,bir öğrencinin başarısız sayılması hangi kriterlere bağlıdır,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+113,programını süresinde bitiremeyen öğrenciler uygulamalar vardır,0.0,1.0,1.0,0.0,0.6164336326286644,0.6164336326286644,1.0,0.6164336326286644,1.0,0.6164336326286644,0.0,0.0,keyword_mismatch
+114,öğrencinin akademik başarısızlığı hangi sonuçlara yol açar,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+115,kayıt yaptırmayan yenilemeyen öğrenciler sistemde nasıl değerlendirilir,1.0,1.0,1.0,0.6843515475204855,0.6843515475204855,0.6843515475204855,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+116,disiplin soruşturması sonucunda öğrencinin statüsü nasıl değişir,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+117,bir öğrenci hangi koşullarda eğitimine devam edemez hale gelir,1.0,1.0,1.0,0.7860137352654724,0.7860137352654724,0.7860137352654724,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+118,öğrencinin yükümlülüklerini yerine getirmemesi hangi yaptırımlara neden,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,long_query
+119,eğitim süresi uzayan öğrenciler hangi kurallar uygulanır,0.5,0.5,0.5,0.4912596920895758,0.4912596920895758,0.4912596920895758,0.0,0.0,0.0,0.0,0.0,0.0,"long_query,ranking_error,hard_query"
+120,bir öğrencinin mezuniyet hakkını kaybetmesine neden olan durumlar nelerdir,1.0,1.0,1.0,0.5087403079104241,0.5087403079104241,0.5087403079104241,0.0,0.0,0.0,0.0,0.0,0.0,long_query

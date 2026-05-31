@@ -1,0 +1,4 @@
+failure_type,count
+long_query,26
+hard_query,3
+keyword_mismatch,1

@@ -1,0 +1,59 @@
+# =============================================================================
+# University Information Retrieval System
+# Requirements — Python 3.9 | 3.10 | 3.11
+# =============================================================================
+# Install:  pip install -r requirements.txt
+# Optional extras are marked below and can be skipped if not needed.
+# =============================================================================
+
+
+# --- Vector Search & Indexing ------------------------------------------------
+faiss-cpu>=1.7.4,<2.0           # CPU FAISS index; swap for faiss-gpu if using GPU
+
+
+# --- Retrieval & Ranking -----------------------------------------------------
+rank-bm25>=0.2.2                # BM25Okapi sparse retrieval
+sentence-transformers>=2.6.0    # Dense embeddings + CrossEncoder reranking
+
+
+# --- Deep Learning -----------------------------------------------------------
+torch>=2.1.0                    # PyTorch (CPU or CUDA); install GPU build separately
+                                # GPU: pip install torch --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.38.0            # AutoTokenizer, model loading
+
+
+# --- NLP & Preprocessing -----------------------------------------------------
+# zemberek-python>=0.1.0        # OPTIONAL — Turkish morphological analysis (Zemberek)
+                                # Uncomment if using Turkish lemmatization
+                                # Requires Java 8+ on PATH
+
+
+# --- Data & Evaluation -------------------------------------------------------
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0                   # Wilcoxon significance test
+statsmodels>=0.14.0             # multipletests (Bonferroni/FDR corrections)
+tqdm>=4.65.0                    # Progress bars
+
+
+# --- PDF Processing ----------------------------------------------------------
+pdfplumber>=0.10.0              # PDF text and metadata extraction
+
+
+# --- Visualization -----------------------------------------------------------
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+
+# --- Streamlit App -----------------------------------------------------------
+streamlit>=1.32.0
+
+
+# --- RAG (Gemini) ------------------------------------------------------------
+google-genai>=1.0.0             # Gemini API client for RAG mode
+                                # Requires GOOGLE_API_KEY environment variable
+
+
+# --- Elasticsearch (Optional) ------------------------------------------------
+# elasticsearch>=8.0.0,<9.0.0   # OPTIONAL — multi-field elastic scoring
+                                # Uncomment if you have an Elasticsearch 8.x instance

@@ -1,0 +1,10 @@
+model,success@1,total,rate
+Hybrid + WeightedExpansion(0.5),38,40,0.95
+Hybrid + Expansion + CE,38,40,0.95
+Custom Hybrid + WeightedExpansion(0.5),38,40,0.95
+Dense,37,40,0.925
+Hybrid,37,40,0.925
+Hybrid + WeightedExpansion(0.3),37,40,0.925
+BM25,36,40,0.9
+Custom Hybrid + Meta + Title + CE,36,40,0.9
+Custom Hybrid + Meta + Title + Expansion + CE,35,40,0.875

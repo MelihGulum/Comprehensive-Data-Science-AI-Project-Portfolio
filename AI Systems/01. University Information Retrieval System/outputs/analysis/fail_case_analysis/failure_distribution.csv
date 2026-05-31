@@ -1,0 +1,5 @@
+failure_type,count
+long_query,23
+ranking_error,2
+hard_query,3
+keyword_mismatch,1
