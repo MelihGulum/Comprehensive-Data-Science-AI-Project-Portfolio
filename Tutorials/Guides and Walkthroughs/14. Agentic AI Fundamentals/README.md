@@ -2,6 +2,10 @@
 
 ## From LLM Calls to Reliable Tool-Using Agents
 
+<p align="center">
+  <img src="./assets/readme_cover.png" alt="Agentic AI Fundamentals" width="900">
+</p>
+
 This tutorial is a notebook-based introduction to building agentic AI systems from first principles. It begins with the difference between an ordinary language-model call and an agent, then gradually introduces structured outputs, safe tools, native function calling, agent loops, memory, LangGraph, agentic RAG, approval workflows, evaluation, multi-agent coordination, MCP, and production architecture.
 
 The course is designed for readers who can write basic Python but have not built an agent before. Each notebook introduces one architectural idea, explains why it exists, and develops it through code before the next abstraction is added.
