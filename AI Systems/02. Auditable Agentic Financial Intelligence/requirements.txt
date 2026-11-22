@@ -1,0 +1,11 @@
+pandas>=2.2
+pydantic>=2.7
+langgraph>=0.2
+streamlit>=1.37
+tavily-python>=0.5
+pytest>=8.0
+
+google-genai>=1.0
+yfinance>=0.2.54
+newspaper3k>=0.2.8
+lxml_html_clean>=0.4
