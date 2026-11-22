@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "cases": 5,
+    "expectation_pass_rate": 1.0,
+    "fault_detection_rate": 1.0,
+    "numerical_accuracy": 0.6,
+    "citation_support_rate": 0.4,
+    "unsupported_claim_rate": 0.8,
+    "source_quality_score": 1.0,
+    "avg_latency_ms": 0.030385199988813838
+  },
+  "cases": [
+    {
+      "case_id": "clean_internal",
+      "category": "clean",
+      "passed_expectation": true,
+      "expected_issues": [],
+      "detected_issues": [],
+      "fault_detection_rate": 1.0,
+      "source_quality_score": 1.0,
+      "numerical_accuracy": 1.0,
+      "citation_support_rate": 1.0,
+      "unsupported_claim_rate": 0.0,
+      "latency_ms": 0.09928700001182733,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "case_id": "tampered_number",
+      "category": "numerical_hallucination",
+      "passed_expectation": true,
+      "expected_issues": [
+        "calculation_mismatch"
+      ],
+      "detected_issues": [
+        "calculation_mismatch"
+      ],
+      "fault_detection_rate": 1.0,
+      "source_quality_score": 1.0,
+      "numerical_accuracy": 0.0,
+      "citation_support_rate": 1.0,
+      "unsupported_claim_rate": 1.0,
+      "latency_ms": 0.0181469999915862,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "case_id": "missing_citation",
+      "category": "citation_failure",
+      "passed_expectation": true,
+      "expected_issues": [
+        "missing_evidence"
+      ],
+      "detected_issues": [
+        "missing_evidence"
+      ],
+      "fault_detection_rate": 1.0,
+      "source_quality_score": 1.0,
+      "numerical_accuracy": 1.0,
+      "citation_support_rate": 0.0,
+      "unsupported_claim_rate": 1.0,
+      "latency_ms": 0.010485999951015401,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "case_id": "evidence_mismatch",
+      "category": "evidence_mismatch",
+      "passed_expectation": true,
+      "expected_issues": [
+        "evidence_mismatch"
+      ],
+      "detected_issues": [
+        "evidence_mismatch"
+      ],
+      "fault_detection_rate": 1.0,
+      "source_quality_score": 1.0,
+      "numerical_accuracy": 1.0,
+      "citation_support_rate": 0.0,
+      "unsupported_claim_rate": 1.0,
+      "latency_ms": 0.012759000014739286,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "case_id": "bad_comparison",
+      "category": "comparison_hallucination",
+      "passed_expectation": true,
+      "expected_issues": [
+        "evidence_mismatch"
+      ],
+      "detected_issues": [
+        "evidence_mismatch"
+      ],
+      "fault_detection_rate": 1.0,
+      "source_quality_score": 1.0,
+      "numerical_accuracy": 0.0,
+      "citation_support_rate": 0.0,
+      "unsupported_claim_rate": 1.0,
+      "latency_ms": 0.011246999974900973,
+      "estimated_cost_usd": 0.0
+    }
+  ]
+}
